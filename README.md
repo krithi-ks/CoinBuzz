@@ -17,6 +17,7 @@ The heart of CoinBuzz lies in its 16 proprietary "Innovation Engines," which wor
 - **Backend**: FastAPI (Python 3.10+), Motor (Async MongoDB).
 - **Database**: MongoDB (Local or Atlas).
 - **AI/ML**: Hugging Face (Sentiment Models), Custom Intelligence Logic.
+- **Telegram Bot**: CoinBuzzCB_bot for alerts.
 
 ## 🏃 Getting Started
 
